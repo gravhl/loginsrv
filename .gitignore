@@ -3,3 +3,4 @@ loginsrv
 caddy/cover.out
 .idea
 /loginsrv
+/helm-chart/loginsrv-gravhl/regcreds.yaml
