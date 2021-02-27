@@ -4,3 +4,4 @@ caddy/cover.out
 .idea
 /loginsrv
 /helm-chart/loginsrv-gravhl/regcreds.yaml
+/helm-chart/loginsrv-gravhl/out.txt
